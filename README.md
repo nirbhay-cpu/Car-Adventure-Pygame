@@ -1,2 +1,8 @@
 # Car-Adventure-Pygame
-A Car Game was made by using Pygame module in Python
+For making games by using pygame.<BR>
+First , you have to install pygame module.<BR>
+For this, you simply write "pip install pygame" in your command prompt.<BR>
+  
+In this,Implemented various pygame function to make whole game. Many define functions are made for various purposes i.e. player,opponents,game intro,etc.<BR>
+Pygame module is not complicated, it is very simple to use.If you want to know more about pygame.<BR>
+click here:-"https://www.pygame.org/docs/"
